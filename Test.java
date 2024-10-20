@@ -4,6 +4,12 @@ public class Test {
 		System.out.println("**************************************");
 		System.out.println("Hello from GITHub");
 		System.out.println("**************************************");
+		System.out.println("**************************************");
+		System.out.println("Hello from GITHub");
+		System.out.println("**************************************");
+		System.out.println("**************************************");
+		System.out.println("Hello from GITHub");
+		System.out.println("**************************************");
 	}
 
 }
